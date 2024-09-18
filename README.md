@@ -31,7 +31,7 @@ To run the notebook, follow these steps:
     - Once the notebook is open, you can run cells one by one using `Shift + Enter`.
     - You can also run all cells at once by selecting "Run All" from the `Cell` menu.
 
-5. **Insert OpenAI API Key (if applicable):**
+5. **Insert OpenAI API Key:**
 
     In the designated cell, insert your OpenAI API key like this:
 
